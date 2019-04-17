@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>First Feed</title>
+    <link>https://designswithdavid.github.io/Alexa-RSS-Feed/</link>
+    <description>This is my first RSS Feed</description>
+    <language>en-us</language>
+    <item>
+      <title>First Piece of Content</title>
+      <pubDate>Wed, 17 Apr 2019 00:54:33 -0500</pubDate>
+      <link>www.google.com</link>
+      <guid isPermaLink="true">google.com</guid>
+      <description><![CDATA[This here is the first piece of content I have added to my first feed.  THis is just a test.]]></description>
+    </item>
+  </channel>
+</rss>
