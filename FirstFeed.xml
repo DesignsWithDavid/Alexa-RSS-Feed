@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
+    <generator>RSS Generator by Designs with David</generator>
     <title>First Feed</title>
     <link>https://designswithdavid.github.io/Alexa-RSS-Feed/</link>
-    <description>This is my first RSS Feed</description>
+    <description>An RSS feed for custom Alexa output</description>
     <language>en-us</language>
     <item>
-      <title>First Piece of Content</title>
-      <pubDate>Wed, 17 Apr 2019 10:20:33 -0500</pubDate>
+      <title>Desired Alexa Output</title>
+      <pubDate>Wed, 17 Apr 2019 11:42:04 </pubDate>
       <link>https://designswithdavid.github.io/Alexa-RSS-Feed/FirstFeed.xml</link>
-      <description><![CDATA[That worked better than I expected]]></description>
+      <description><![CDATA[This is the second test of the RSS generator]]></description>
     </item>
   </channel>
 </rss>
