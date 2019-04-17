@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <generator>RSS Builder by B!Soft</generator>
     <title>First Feed</title>
     <link>https://designswithdavid.github.io/Alexa-RSS-Feed/</link>
     <description>This is my first RSS Feed</description>
