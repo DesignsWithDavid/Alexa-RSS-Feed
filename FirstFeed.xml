@@ -10,7 +10,7 @@
       <title>Desired Alexa Output</title>
       <pubDate>Wed, 17 Apr 2019 11:55:05 -0500</pubDate>
       <link>https://designswithdavid.github.io/Alexa-RSS-Feed/FirstFeed.xml</link>
-      <description><![CDATA[This is the second test of the RSS generator]]></description>
+      <description><![CDATA[Thank you for using the RSS Generator for Alexa Integration by Designs With David.  For more information on how to customize content for Alexa to say, please visit my page on youtube for a detailed tutorial.  Thanks again, and keep on designing!]]></description>
     </item>
   </channel>
 </rss>
